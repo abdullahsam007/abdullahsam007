@@ -11,11 +11,6 @@
 
 - 🤝 I’m looking for help with [developing eye-catching websites](https://useplink.com/en/)
 
-- 👨‍💻 All of my projects are available at [https://abdullahsam.netlify.app/](https://abdullahsam.netlify.app/)
-
-- 📫 How to reach me **abdullahsam5071@outlook.com**
-
-- ⚡ Fun fact **I'm not a PRO developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
