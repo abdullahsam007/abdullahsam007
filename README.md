@@ -5,19 +5,19 @@
 <br>
 <p align="center">Let's connect!</p>
 
-<a href="https://www.instagram.com/abdullahsam507/">
+<a href="https://www.instagram.com/abdullahsam507/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/abdullah-habib-815467190/">
+<a href="https://www.linkedin.com/in/abdullah-habib-815467190/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=100007717877373">
+<a href="https://www.facebook.com/profile.php?id=100007717877373" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://abdullahsam.netlify.app/">
+<a href="https://abdullahsam.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </a>
 </div>
